@@ -1,2 +1,2 @@
-# Registration-and-Login-System
-Simple project I did to practice reading/writing files in Go
+Simple Registration/Login system with filestoring.
+Doesn't actually encode the password and just saves everything as .txt files.
